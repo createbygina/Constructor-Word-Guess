@@ -1,2 +1,2 @@
 # Constructor-Word-Guess
-![](word.gif)
+![](words.gif)
